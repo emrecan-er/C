@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1632402181 source:c:\users\emrecan\desktop\kod proje\mildenkmye\main.c
+	<stdio.h>
+	<stdlib.h>
+

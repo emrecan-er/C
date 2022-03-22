@@ -1,0 +1,15 @@
+Tek :	 1
+Cift :	 2 
+Tek :	 3
+Cift :	 4 
+Tek :	 5
+Cift :	 6 
+Tek :	 7
+Cift :	 8 
+Tek :	 9
+Cift :	 10 
+Tek :	 11
+Cift :	 12 
+Tek :	 13
+Cift :	 14 
+Tek :	 15

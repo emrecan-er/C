@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1632844470 source:c:\users\emrecan\desktop\kod proje\basitkesirtoplamacikarma\main.c
+	<stdio.h>
+	<stdlib.h>
+

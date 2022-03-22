@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1640853282 source:c:\users\emrecan\desktop\kod\udemy\c\histogram\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1640859764 source:c:\users\emrecan\desktop\kod\udemy\c\dosyaislemlerindefa\main.c
+	<stdio.h>
+	<stdlib.h>
+

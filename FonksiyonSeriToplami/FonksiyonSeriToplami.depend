@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1634109462 source:c:\users\emrecan\desktop\kodlama\udemy\c\fonksiyonseritoplami\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

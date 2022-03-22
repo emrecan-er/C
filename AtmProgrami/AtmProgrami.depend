@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1631710783 source:c:\users\emrecan\desktop\kod proje\atmprogrami\main.c
+	<stdio.h>
+	<stdlib.h>
+

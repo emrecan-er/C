@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639416706 source:c:\users\emrecan\desktop\kod\udemy\c\structkosulagoreatama\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

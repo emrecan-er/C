@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1632056906 source:c:\users\emrecan\desktop\kod proje\fonksiypnhesaplama\main.c
+	<stdio.h>
+	<stdlib.h>
+

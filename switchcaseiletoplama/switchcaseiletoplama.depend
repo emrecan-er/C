@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1631703615 source:c:\users\emrecan\desktop\switchcaseiletoplama\main.c
+	<stdio.h>
+	<stdlib.h>
+

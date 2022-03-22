@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1632989109 source:c:\users\emrecan\desktop\kod proje\yaziyazmaprogrami\main.c
+	<stdio.h>
+	<stdlib.h>
+

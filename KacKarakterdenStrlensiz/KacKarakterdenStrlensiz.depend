@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1632987467 source:c:\users\emrecan\desktop\kod proje\kackarakterdenstrlensiz\main.c
+	<stdio.h>
+	<stdlib.h>
+

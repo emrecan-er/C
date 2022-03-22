@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1640328209 source:c:\users\emrecan\desktop\kod\udemy\c++\structagirlikhesaplama\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
